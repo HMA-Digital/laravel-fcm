@@ -20,15 +20,15 @@
     ],
     "require": {
         "php": ">=7.2",
-        "illuminate/support": "^6|^7|^8",
-        "guzzlehttp/guzzle": "^7",
+        "illuminate/support": "^6|^7|^8|^9",
+        "guzzlehttp/guzzle": "^7.4",
         "monolog/monolog": "^2"
     },
     "require-dev": {
-        "mockery/mockery": "^1.4",
-        "phpunit/phpunit": "^8.0",
+        "mockery/mockery": "^1.5",
+        "phpunit/phpunit": "^9.0",
         "php-coveralls/php-coveralls": "^2.4",
-        "laravel/laravel": "^6|^7|^8"
+        "laravel/laravel": "^6|^7|^8|^9"
     },
     "autoload": {
         "psr-4": {
